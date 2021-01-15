@@ -1,0 +1,7 @@
+1. Diferansiyel Denklemler
+2. Ayrık Matematik
+3. Bilgisayar Organizasyonu ve Mimarisi 
+4. İşletim Sistemleri 
+5. Veritabanı Sistemleri
+6. Nesne Yönelimli Programlama
+7. Devre Teorisi

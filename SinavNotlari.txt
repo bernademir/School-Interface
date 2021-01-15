@@ -1,0 +1,6 @@
+
+1. Diferansiyel Denklemler : vize = 23, final = 56
+2. Ayrık Matematik : vize = 12, final = 78
+3. Bilgisayar Organizasyonu ve Mimarisi  : vize = 90, final = 45
+4. İşletim Sistemleri  : vize = 67, final = 34
+5. Veritabanı Sistemleri : vize = 23, final = 45

@@ -1,0 +1,7 @@
+1. Elektrik Müh. Giriş
+2. Devre Analizi
+3. Düşük Gerilim Güç Sist.
+4. Mantıksal Devre Tasarımı
+5. Malzeme Bilgisi 
+6. Kimya
+7. Kompleks Analiz
